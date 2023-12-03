@@ -1,6 +1,6 @@
 # Open-EmojiDisplay
 
-EmojiDisplay is a Chrome extension, which replaces text versions of the emojis into images (for operating systems that do not automatically support this feature).
+Open-EmojiDisplay is a Chrome extension, which replaces all emojis with the Apple Variant.
 
 ## The original is kept [Here](https://github.com/ranjotsingh/EmojiDisplay).
 ### This project will be kept in support as "Open-EmojiDisplay" by me.
